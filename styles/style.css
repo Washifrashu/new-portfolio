@@ -72,6 +72,140 @@ span{
     font-size: 18px;
     font-weight: 400;
     margin-bottom:30px;
+}
 
+.about{
+    margin: 0 200px;
+    background-color: #fff8f3;
+    padding: 130px 130px;
+    margin-top: 140px;
+}
+.section-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-description{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+}
+.about-info-container{
+    display: flex;
+    justify-content:space-around;
+    margin: 30px 0px;
+}
+.info-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 0;
+}
+.info-description{
+    color:#474747;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.what-i-do-container{
+    margin:0 200px;
+    margin-top: 130px;
+}
+.what-i-do-description{
+    padding: 20px 130px;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    color: #181818;
+    font-size: 20px;
+    font-weight: 700;
 
+}
+.skill-description{
+    color: #757575;
+    font-size:16px ;
+    font-weight: 400;
+}
+.skills{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(1, 1, 1, 0.06);
+}
+.resume-section{
+    margin: 0px 200px;
+    margin-top: 130px;
+}
+.resume-container{
+    display: flex;
+    margin-top: 80px;
+}
+.resume-coloumn-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+
+}
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    
+}
+.year{
+    color: #757575;
+    font-size: 20px;
+    font-weight:600;
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.resume-description{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+.resume-container hr{
+    margin: 30px 30px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding: 80px 200px;
+    gap: 100px;
+}
+footer h3{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+footer p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #474747;
+    margin-top: 20px;
+}
+.footer-coloumn{
+    width: 50%;
+}
+.social-link{
+    margin-top: 30px;
+}
+.contact input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px;
+    width: 100%;
+    border: 0;
+    margin-top: 20px;
 }
